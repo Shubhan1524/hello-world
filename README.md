@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+Shubhan here! I like cpp and python.
